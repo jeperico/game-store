@@ -2,7 +2,7 @@
 name = "game-store"
 version = "0.1.0"
 description = ""
-authors = ["Alexandre Klostermann <alexandre@aupi.com.br>"]
+authors = ["João Eduardo Périco <joaoeperico@gmail.com.br>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
